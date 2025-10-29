@@ -1,0 +1,1 @@
+// Similar to CartContext - add useWishlist hook
